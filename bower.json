@@ -1,0 +1,25 @@
+{
+  "name": "ng-browser-detector",
+  "description": "AngularJs service to detect platform, browser and version",
+  "main": "src/ng-browser-detector.js",
+  "authors": [
+    "sibiraj-s"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs-browser-detector",
+    "platform-detector",
+    "ng-browser-detector",
+    "browser-detector",
+    "device-detector",
+    "angularjs-device-detector"
+  ],
+  "homepage": "https://github.com/sibiraj-s/ng-browser-detector",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
